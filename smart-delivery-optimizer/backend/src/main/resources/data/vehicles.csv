@@ -1,0 +1,53 @@
+Vehicle_ID,Hub,Vehicle_Type,Capacity_Kg,Cost_per_Km_INR,Availability,Max_Working_Minutes
+VEH-001,North Hub,Bike,18,5.5,Available,480
+VEH-002,North Hub,Bike,18,5.5,Available,480
+VEH-003,North Hub,Bike,18,5.5,Available,480
+VEH-004,North Hub,Bike,18,5.5,Available,480
+VEH-005,North Hub,Bike,18,5.5,Available,480
+VEH-006,North Hub,Van,180,11,Available,480
+VEH-007,North Hub,Van,180,11,Available,480
+VEH-008,North Hub,Van,180,11,Available,480
+VEH-009,North Hub,Van,180,11,Available,480
+VEH-010,North Hub,Van,180,11,Available,480
+VEH-011,North Hub,Mini Truck,500,18.5,Available,480
+VEH-012,North Hub,Mini Truck,500,18.5,Available,480
+VEH-013,North Hub,Mini Truck,500,18.5,Maintenance,480
+VEH-014,South Hub,Bike,18,5.5,Maintenance,480
+VEH-015,South Hub,Bike,18,5.5,Available,480
+VEH-016,South Hub,Bike,18,5.5,Available,480
+VEH-017,South Hub,Bike,18,5.5,Available,480
+VEH-018,South Hub,Bike,18,5.5,Available,480
+VEH-019,South Hub,Van,180,11,Available,480
+VEH-020,South Hub,Van,180,11,Available,480
+VEH-021,South Hub,Van,180,11,Available,480
+VEH-022,South Hub,Van,180,11,Available,480
+VEH-023,South Hub,Van,180,11,Available,480
+VEH-024,South Hub,Mini Truck,500,18.5,Available,480
+VEH-025,South Hub,Mini Truck,500,18.5,Available,480
+VEH-026,South Hub,Mini Truck,500,18.5,Available,480
+VEH-027,East Hub,Bike,18,5.5,Available,480
+VEH-028,East Hub,Bike,18,5.5,Available,480
+VEH-029,East Hub,Bike,18,5.5,Available,480
+VEH-030,East Hub,Bike,18,5.5,Available,480
+VEH-031,East Hub,Bike,18,5.5,Available,480
+VEH-032,East Hub,Van,180,11,Maintenance,480
+VEH-033,East Hub,Van,180,11,Available,480
+VEH-034,East Hub,Van,180,11,Available,480
+VEH-035,East Hub,Van,180,11,Available,480
+VEH-036,East Hub,Van,180,11,Available,480
+VEH-037,East Hub,Mini Truck,500,18.5,Available,480
+VEH-038,East Hub,Mini Truck,500,18.5,Available,480
+VEH-039,East Hub,Mini Truck,500,18.5,Available,480
+VEH-040,West Hub,Bike,18,5.5,Available,480
+VEH-041,West Hub,Bike,18,5.5,Maintenance,480
+VEH-042,West Hub,Bike,18,5.5,Available,480
+VEH-043,West Hub,Bike,18,5.5,Available,480
+VEH-044,West Hub,Bike,18,5.5,Available,480
+VEH-045,West Hub,Van,180,11,Available,480
+VEH-046,West Hub,Van,180,11,Available,480
+VEH-047,West Hub,Van,180,11,Available,480
+VEH-048,West Hub,Van,180,11,Available,480
+VEH-049,West Hub,Van,180,11,Maintenance,480
+VEH-050,West Hub,Mini Truck,500,18.5,Available,480
+VEH-051,West Hub,Mini Truck,500,18.5,Available,480
+VEH-052,West Hub,Mini Truck,500,18.5,Available,480

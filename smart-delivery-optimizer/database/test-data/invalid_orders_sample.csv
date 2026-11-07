@@ -1,0 +1,19 @@
+Order_ID,Origin_Hub,Destination_Zone,Distance_Km,Package_Weight_Kg,Priority,Delivery_Window,Required_Vehicle_Type,Service_Time_Min,Existing_Planned_Distance_Km,Existing_Estimated_Time_Min,Delay_Min,Delivery_Status
+TST-001,North Hub,Zone A,18.2,8.5,High,08:00-11:00,Bike,10,21.5,45,0,On Time
+TST-002,North Hub,Zone A,18.2,,High,08:00-11:00,Bike,10,21.5,45,0,On Time
+TST-003,North Hub,Zone A,18.2,-4,Medium,Flexible,Van,10,21.5,45,0,On Time
+TST-004,North Hub,Zone Q,18.2,30,Medium,Flexible,Van,10,21.5,45,0,On Time
+TST-005,Moon Hub,Zone A,18.2,30,Medium,Flexible,Van,10,21.5,45,0,On Time
+TST-006,South Hub,Zone E,15.1,25,Urgent,Flexible,Van,10,19,40,0,On Time
+TST-007,South Hub,Zone E,15.1,25,Low,9am-noon,Van,10,19,40,0,On Time
+TST-008,South Hub,Zone E,15.1,25,Low,11:00-08:00,Van,10,19,40,0,On Time
+TST-009,East Hub,Zone D,11,25,Low,Flexible,Lorry,10,14,30,0,On Time
+TST-010,East Hub,Zone D,11,650,High,Flexible,Mini Truck,20,14,30,0,On Time
+TST-011,East Hub,Zone D,11,25,Low,Flexible,Bike,10,14,30,0,On Time
+TST-012,East Hub,Zone D,11,25,Low,Flexible,Van,-5,14,30,0,On Time
+TST-001,West Hub,Zone G,15,12,Low,Flexible,Van,10,18,40,0,On Time
+,West Hub,Zone G,15,12,Low,Flexible,Van,10,18,40,0,On Time
+TST-015,West Hub,Zone G,15,12,Low,Flexible,Van,10,,40,,Unknown
+TST-016,West Hub,Zone G,95,12,Low,Flexible,Van,10,18,40,0,On Time
+TST-017,West Hub,Zone G,15,heavy,Low,Flexible,Van,10,18,40,0,On Time
+TST-018,West Hub,Zone G,15
